@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GPIO_20 Pin=Sun Mux-14
+Added Pin To Net: NetName=GPIO_17 Pin=Sun Mux-14

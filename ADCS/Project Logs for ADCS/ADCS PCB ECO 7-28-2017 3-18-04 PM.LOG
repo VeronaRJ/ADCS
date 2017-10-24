@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SCL0 Pin=ADCS Conn-3
+Removed Pin From Net: NetName=SDA0 Pin=ADCS Conn-4
+Removed Pin From Net: NetName=GND Pin=IMU-
+Removed Pin From Net: NetName=GND Pin=IMU-
+Removed Pin From Net: NetName=GPIO_7 Pin=Teensy 3.2-9
+Removed Pin From Net: NetName=GPIO_8 Pin=Teensy 3.2-10
+Added Pin To Net: NetName=RX3 Pin=ADCS Conn-3
+Added Pin To Net: NetName=RX3 Pin=Teensy 3.2-9
+Added Net: Name=RX3
+Added Pin To Net: NetName=TX3 Pin=ADCS Conn-4
+Added Pin To Net: NetName=TX3 Pin=Teensy 3.2-10
+Added Net: Name=TX3
+Added Room: Name=Top

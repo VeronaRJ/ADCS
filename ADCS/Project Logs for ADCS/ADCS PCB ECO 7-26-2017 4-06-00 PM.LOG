@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GPIO_7 Pin=CS Mux-1
+Removed Pin From Net: NetName=GPIO_8 Pin=CS Mux-10
+Added Pin To Net: NetName=GPIO_8 Pin=CS Mux-1
+Added Pin To Net: NetName=GPIO_7 Pin=CS Mux-10
+Added Room: Name=Top

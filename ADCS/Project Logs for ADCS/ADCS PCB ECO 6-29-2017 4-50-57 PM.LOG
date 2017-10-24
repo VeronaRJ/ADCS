@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM2A (P8,19) Pin=ADCS2Umb-28
+Removed Pin From Net: NetName=PWM18 (P8,34) Pin=ADCS2Umb-30
+Added Pin To Net: NetName=PWM18 (P8,34) Pin=ADCS2Umb-28
+Added Pin To Net: NetName=PWM2A (P8,19) Pin=ADCS2Umb-30

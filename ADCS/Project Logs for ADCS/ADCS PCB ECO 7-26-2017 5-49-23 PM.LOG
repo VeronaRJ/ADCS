@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=HS1 Pin=ADCSHS1-2
+Removed Pin From Net: NetName=GND Pin=ADCSHS1-3
+Added Pin To Net: NetName=GND Pin=ADCSHS1-2
+Added Pin To Net: NetName=HS1 Pin=ADCSHS1-3
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=Hall 2-1
+Added Pin To Net: NetName=NetHall 2_2 Pin=Hall 2-2
+Added Pin To Net: NetName=NetHall 2_3 Pin=Hall 2-3
+Added Pin To Net: NetName=NetC31_2 Pin=HS2-1
+Added Pin To Net: NetName=NetHall 2_2 Pin=HS2-2
+Added Pin To Net: NetName=NetHall 2_3 Pin=HS2-3
+Added Member To Class: ClassName=Top Member=Component C31 C0402
+Added Member To Class: ClassName=Top Member=Component Hall 2 DRV5053EAQDBZR
+Added Member To Class: ClassName=Top Member=Component HS2 501568-0307

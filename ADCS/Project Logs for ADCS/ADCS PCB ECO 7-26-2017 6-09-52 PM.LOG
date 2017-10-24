@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=HS1 Pin=ADCSHS1-2
+Removed Pin From Net: NetName=GND Pin=ADCSHS1-3
+Removed Pin From Net: NetName=HS2 Pin=ADCSHSC2-2
+Removed Pin From Net: NetName=GND Pin=ADCSHSC2-3
+Removed Pin From Net: NetName=HS3 Pin=ADCSHSC3-2
+Removed Pin From Net: NetName=GND Pin=ADCSHSC3-3
+Added Pin To Net: NetName=GND Pin=ADCSHS1-2
+Added Pin To Net: NetName=HS1 Pin=ADCSHS1-3
+Added Pin To Net: NetName=GND Pin=ADCSHSC2-2
+Added Pin To Net: NetName=HS2 Pin=ADCSHSC2-3
+Added Pin To Net: NetName=GND Pin=ADCSHSC3-2
+Added Pin To Net: NetName=HS3 Pin=ADCSHSC3-3

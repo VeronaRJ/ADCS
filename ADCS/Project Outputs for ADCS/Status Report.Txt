@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ADCS.PrjPcb]
+   Generated File[ADCS.TXT]
+   Generated File[ADCS.LDP]
+   Generated File[ADCS.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:11:58 PM On 9/24/2017

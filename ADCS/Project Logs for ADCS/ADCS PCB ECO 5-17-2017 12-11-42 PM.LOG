@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=NetADCS2Umb_1 Pin=ADCS2Umb-A1
+Removed Pin From Net: NetName=NetADCS2Umb_2 Pin=ADCS2Umb-A2
+Removed Pin From Net: NetName=GPIO_3 Pin=ADCS2Umb-A3
+Removed Pin From Net: NetName=NetADCS2Umb_4 Pin=ADCS2Umb-A4
+Removed Pin From Net: NetName=NetADCS2Umb_5 Pin=ADCS2Umb-A5
+Removed Pin From Net: NetName=GPIO_6 Pin=ADCS2Umb-A6
+Removed Pin From Net: NetName=NetADCS2Umb_7 Pin=ADCS2Umb-A7
+Removed Pin From Net: NetName=NetADCS2Umb_8 Pin=ADCS2Umb-A8
+Removed Pin From Net: NetName=GPIO_9 Pin=ADCS2Umb-A9
+Removed Pin From Net: NetName=GPIO_10 Pin=ADCS2Umb-A10
+Removed Pin From Net: NetName=GPIO_11 Pin=ADCS2Umb-A11
+Removed Pin From Net: NetName=GPIO_12 Pin=ADCS2Umb-A12
+Removed Pin From Net: NetName=GPIO_13 Pin=ADCS2Umb-A13
+Removed Pin From Net: NetName=GPIO_14 Pin=ADCS2Umb-A14
+Removed Pin From Net: NetName=GPIO_15 Pin=ADCS2Umb-A15
+Removed Pin From Net: NetName=GPIO_16 Pin=ADCS2Umb-A16
+Removed Pin From Net: NetName=NetADCS2Umb_17 Pin=ADCS2Umb-A17
+Removed Pin From Net: NetName=NetADCS2Umb_18 Pin=ADCS2Umb-A18
+Removed Pin From Net: NetName=NetADCS2Umb_19 Pin=ADCS2Umb-A19
+Removed Pin From Net: NetName=NetADCS2Umb_20 Pin=ADCS2Umb-A20
+Removed Pin From Net: NetName=NetADCS2Umb_21 Pin=ADCS2Umb-A21
+Removed Pin From Net: NetName=NetADCS2Umb_22 Pin=ADCS2Umb-A22
+Removed Pin From Net: NetName=24V Pin=ADCS2Umb-A23
+Removed Pin From Net: NetName=GND Pin=ADCS2Umb-A24
+Removed Pin From Net: NetName=5V_3 Pin=ADCS2Umb-A25
+Removed Member From Class: ClassName=Top Member=PhotoTrans
+Change Component Library : Designator=ADCS2Umb Old Library=UmbilicalBoardV2.SCHLIB New Library=*
+Added Component: Designator=ADCS2Umb(ADCS2Umb)
+Added Pin To Net: NetName=NetADCS2Umb_1 Pin=ADCS2Umb-A1
+Added Pin To Net: NetName=NetADCS2Umb_2 Pin=ADCS2Umb-A2
+Added Pin To Net: NetName=GPIO_3 Pin=ADCS2Umb-A3
+Added Pin To Net: NetName=NetADCS2Umb_4 Pin=ADCS2Umb-A4
+Added Pin To Net: NetName=NetADCS2Umb_5 Pin=ADCS2Umb-A5
+Added Pin To Net: NetName=GPIO_6 Pin=ADCS2Umb-A6
+Added Pin To Net: NetName=NetADCS2Umb_7 Pin=ADCS2Umb-A7
+Added Pin To Net: NetName=NetADCS2Umb_8 Pin=ADCS2Umb-A8
+Added Pin To Net: NetName=GPIO_9 Pin=ADCS2Umb-A9
+Added Pin To Net: NetName=GPIO_10 Pin=ADCS2Umb-A10
+Added Pin To Net: NetName=GPIO_11 Pin=ADCS2Umb-A11
+Added Pin To Net: NetName=GPIO_12 Pin=ADCS2Umb-A12
+Added Pin To Net: NetName=GPIO_13 Pin=ADCS2Umb-A13
+Added Pin To Net: NetName=GPIO_14 Pin=ADCS2Umb-A14
+Added Pin To Net: NetName=GPIO_15 Pin=ADCS2Umb-A15
+Added Pin To Net: NetName=GPIO_16 Pin=ADCS2Umb-A16
+Added Pin To Net: NetName=NetADCS2Umb_17 Pin=ADCS2Umb-A17
+Added Pin To Net: NetName=NetADCS2Umb_18 Pin=ADCS2Umb-A18
+Added Pin To Net: NetName=NetADCS2Umb_19 Pin=ADCS2Umb-A19
+Added Pin To Net: NetName=NetADCS2Umb_20 Pin=ADCS2Umb-A20
+Added Pin To Net: NetName=NetADCS2Umb_21 Pin=ADCS2Umb-A21
+Added Pin To Net: NetName=NetADCS2Umb_22 Pin=ADCS2Umb-A22
+Added Pin To Net: NetName=24V Pin=ADCS2Umb-A23
+Added Pin To Net: NetName=GND Pin=ADCS2Umb-A24
+Added Pin To Net: NetName=5V_3 Pin=ADCS2Umb-A25
+Added Pin To Net: NetName=NetADCS2Umb_3 Pin=ADCS2Umb-A3
+Added Pin To Net: NetName=NetADCS2Umb_3 Pin=Mux-4
+Added Net: Name=NetADCS2Umb_3
+Added Pin To Net: NetName=NetADCS2Umb_6 Pin=ADCS2Umb-A6
+Added Pin To Net: NetName=NetADCS2Umb_6 Pin=Mux-7
+Added Net: Name=NetADCS2Umb_6
+Added Pin To Net: NetName=PT1 Pin=ADCS2Umb-A9
+Added Pin To Net: NetName=PT1 Pin=Mux-24
+Added Net: Name=PT1
+Added Pin To Net: NetName=PT2 Pin=ADCS2Umb-A10
+Added Pin To Net: NetName=PT2 Pin=Mux-23
+Added Net: Name=PT2
+Added Pin To Net: NetName=PT3 Pin=ADCS2Umb-A11
+Added Pin To Net: NetName=PT3 Pin=Mux-22
+Added Net: Name=PT3
+Added Pin To Net: NetName=PT4 Pin=ADCS2Umb-A12
+Added Pin To Net: NetName=PT4 Pin=Mux-21
+Added Net: Name=PT4
+Added Pin To Net: NetName=PT5 Pin=ADCS2Umb-A13
+Added Pin To Net: NetName=PT5 Pin=Mux-20
+Added Net: Name=PT5
+Added Pin To Net: NetName=PT6 Pin=ADCS2Umb-A14
+Added Pin To Net: NetName=PT6 Pin=Mux-19
+Added Net: Name=PT6
+Added Pin To Net: NetName=PT7 Pin=ADCS2Umb-A15
+Added Pin To Net: NetName=PT7 Pin=Mux-18
+Added Net: Name=PT7
+Added Pin To Net: NetName=PT8 Pin=ADCS2Umb-A16
+Added Pin To Net: NetName=PT8 Pin=Mux-17
+Added Net: Name=PT8
+Added Member To Class: ClassName=Top Member=Component ADCS2Umb
+Added Room: Name=ADCS2Umb
+Added Room: Name=Top

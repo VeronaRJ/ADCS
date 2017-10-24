@@ -1,0 +1,18 @@
+Added Component: Designator=HS1(5015680307)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HS2(5015680307)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HS3(5015680307)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetHall 1_1 Pin=HS1-1
+Added Pin To Net: NetName=NetHall 1_2 Pin=HS1-2
+Added Pin To Net: NetName=NetHall 1_3 Pin=HS1-3
+Added Pin To Net: NetName=NetHall 2_1 Pin=HS2-1
+Added Pin To Net: NetName=NetHall 2_2 Pin=HS2-2
+Added Pin To Net: NetName=NetHall 2_3 Pin=HS2-3
+Added Pin To Net: NetName=NetHall 3_1 Pin=HS3-1
+Added Pin To Net: NetName=NetHall 3_2 Pin=HS3-2
+Added Pin To Net: NetName=NetHall 3_3 Pin=HS3-3
+Added Member To Class: ClassName=Top Member=Component HS1 501568-0307
+Added Member To Class: ClassName=Top Member=Component HS2 501568-0307
+Added Member To Class: ClassName=Top Member=Component HS3 501568-0307

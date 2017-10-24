@@ -1,0 +1,78 @@
+Added Component: Designator=Mux(DB24)
+Added Component: Designator=PhotoTrans(Docking Connector)
+Added Component: Designator=PhotoTrans(Docking Connector)
+Added Component: Designator=Pot1(M8_15)
+Added Component: Designator=Pot2(M8_15)
+Added Component: Designator=Pot3(M8_15)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Pin To Net: NetName=5V_3 Pin=Pot1-8
+Added Pin To Net: NetName=5V_3 Pin=Pot2-8
+Added Pin To Net: NetName=5V_3 Pin=Pot3-8
+Added Net: Name=5V_3
+Added Pin To Net: NetName=GND Pin=Mux-12
+Added Pin To Net: NetName=GND Pin=Pot1-4
+Added Pin To Net: NetName=GND Pin=Pot2-4
+Added Pin To Net: NetName=GND Pin=Pot3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetMux_2 Pin=Mux-2
+Added Pin To Net: NetName=NetMux_2 Pin=PhotoTrans-1
+Added Net: Name=NetMux_2
+Added Pin To Net: NetName=NetMux_3 Pin=Mux-3
+Added Pin To Net: NetName=NetMux_3 Pin=PhotoTrans-2
+Added Net: Name=NetMux_3
+Added Pin To Net: NetName=NetMux_4 Pin=Mux-4
+Added Pin To Net: NetName=NetMux_4 Pin=PhotoTrans-3
+Added Pin To Net: NetName=NetMux_4 Pin=PhotoTrans-3
+Added Pin To Net: NetName=NetMux_4 Pin=PhotoTrans-3
+Added Net: Name=NetMux_4
+Added Pin To Net: NetName=NetMux_5 Pin=Mux-5
+Added Pin To Net: NetName=NetMux_5 Pin=PhotoTrans-4
+Added Net: Name=NetMux_5
+Added Pin To Net: NetName=NetMux_6 Pin=Mux-6
+Added Pin To Net: NetName=NetMux_6 Pin=PhotoTrans-5
+Added Net: Name=NetMux_6
+Added Pin To Net: NetName=NetMux_7 Pin=Mux-7
+Added Pin To Net: NetName=NetMux_7 Pin=PhotoTrans-6
+Added Net: Name=NetMux_7
+Added Pin To Net: NetName=NetMux_8 Pin=Mux-8
+Added Pin To Net: NetName=NetMux_8 Pin=PhotoTrans-7
+Added Net: Name=NetMux_8
+Added Pin To Net: NetName=NetMux_9 Pin=Mux-9
+Added Pin To Net: NetName=NetMux_9 Pin=PhotoTrans-8
+Added Net: Name=NetMux_9
+Added Pin To Net: NetName=NetMux_18 Pin=Mux-18
+Added Pin To Net: NetName=NetMux_18 Pin=PhotoTrans-15
+Added Net: Name=NetMux_18
+Added Pin To Net: NetName=NetMux_19 Pin=Mux-19
+Added Pin To Net: NetName=NetMux_19 Pin=PhotoTrans-14
+Added Net: Name=NetMux_19
+Added Pin To Net: NetName=NetMux_20 Pin=Mux-20
+Added Pin To Net: NetName=NetMux_20 Pin=PhotoTrans-13
+Added Net: Name=NetMux_20
+Added Pin To Net: NetName=NetMux_21 Pin=Mux-21
+Added Pin To Net: NetName=NetMux_21 Pin=PhotoTrans-12
+Added Net: Name=NetMux_21
+Added Pin To Net: NetName=NetMux_22 Pin=Mux-22
+Added Pin To Net: NetName=NetMux_22 Pin=PhotoTrans-11
+Added Net: Name=NetMux_22
+Added Pin To Net: NetName=NetMux_23 Pin=Mux-23
+Added Pin To Net: NetName=NetMux_23 Pin=PhotoTrans-10
+Added Net: Name=NetMux_23
+Added Pin To Net: NetName=NetMux_24 Pin=Mux-24
+Added Pin To Net: NetName=NetMux_24 Pin=PhotoTrans-9
+Added Net: Name=NetMux_24
+Added Pin To Net: NetName=NetPot1_5 Pin=Pot1-5
+Added Pin To Net: NetName=NetPot1_5 Pin=R?-1
+Added Net: Name=NetPot1_5
+Added Pin To Net: NetName=NetPot2_5 Pin=Pot2-5
+Added Pin To Net: NetName=NetPot2_5 Pin=R?-1
+Added Net: Name=NetPot2_5
+Added Pin To Net: NetName=NetPot3_5 Pin=Pot3-5
+Added Pin To Net: NetName=NetPot3_5 Pin=R?-1
+Added Net: Name=NetPot3_5
+Added Class: Name=PhotoTrans
+Added Class: Name=Top
+Added Room: Name=PhotoTrans
+Added Room: Name=Top

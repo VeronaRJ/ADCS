@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=ADCSHS1-GND
+Removed Pin From Net: NetName=GND Pin=ADCSHS1-GND
+Removed Pin From Net: NetName=GND Pin=ADCSHSC2-GND
+Removed Pin From Net: NetName=GND Pin=ADCSHSC2-GND
+Removed Pin From Net: NetName=GND Pin=ADCSHSC3-GND
+Removed Pin From Net: NetName=GND Pin=ADCSHSC3-GND
+Removed Pin From Net: NetName=GPIO_12 Pin=HS Mux-10
+Added Pin To Net: NetName=GPIO_23 Pin=HS Mux-10

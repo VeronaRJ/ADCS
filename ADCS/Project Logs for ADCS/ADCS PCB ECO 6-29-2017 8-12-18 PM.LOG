@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GPIO_10 Pin=ADCS2Umb-7
+Removed Pin From Net: NetName=GPIO_11 Pin=ADCS2Umb-8
+Removed Pin From Net: NetName=GPIO_62 Pin=ADCS2Umb-26
+Removed Pin From Net: NetName=GPIO_37 Pin=ADCS2Umb-27
+Added Pin To Net: NetName=GPIO_62 Pin=ADCS2Umb-7
+Added Pin To Net: NetName=GPIO_37 Pin=ADCS2Umb-8
+Added Pin To Net: NetName=GPIO_10 Pin=ADCS2Umb-26
+Added Pin To Net: NetName=GPIO_11 Pin=ADCS2Umb-27
+Added Member To Class: ClassName=Top Member=Component Mag Magnetorquer

@@ -1,0 +1,124 @@
+# Created by Ultra Librarian Gold 8.2.57 Copyright © 1999-2017
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "TEM_0805")
+Pad (Name "1") (Location -31.5, 0) (Surface True) (Rotation 0)
+PadShape (Size 32, 49) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 31.5, 0) (Surface True) (Rotation 0)
+PadShape (Size 32, 49) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -57.5, -34.5) (End -57.5, 34.5) (Layer Mechanical15) 
+Line (Width 6) (Start -57.5, 34.5) (End 57.5, 34.5) (Layer Mechanical15) 
+Line (Width 6) (Start 57.5, 34.5) (End 57.5, -34.5) (Layer Mechanical15) 
+Line (Width 6) (Start 57.5, -34.5) (End -57.5, -34.5) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-57.5, -34.5)
+Point (-57.5, 34.5)
+Point (57.5, 34.5)
+Point (57.5, -34.5)
+EndPolygon
+Line (Width 6) (Start -3.39173794, -29.5) (End 3.39173794, -29.5) (Layer TopOverlay) 
+Line (Width 6) (Start 3.39173794, 29.5) (End -3.39173794, 29.5) (Layer TopOverlay) 
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "PN")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "DEV")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "VAL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TOL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Step (Name TEM_0805.stp)
+EndFootprint
+
+Footprint (Name "TEM_0805-M")
+Pad (Name "1") (Location -33.5, 0) (Surface True) (Rotation 0)
+PadShape (Size 36, 53) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 33.5, 0) (Surface True) (Rotation 0)
+PadShape (Size 36, 53) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -71.5, -46.5) (End -71.5, 46.5) (Layer Mechanical15) 
+Line (Width 6) (Start -71.5, 46.5) (End 71.5, 46.5) (Layer Mechanical15) 
+Line (Width 6) (Start 71.5, 46.5) (End 71.5, -46.5) (Layer Mechanical15) 
+Line (Width 6) (Start 71.5, -46.5) (End -71.5, -46.5) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-71.5, -46.5)
+Point (-71.5, 46.5)
+Point (71.5, 46.5)
+Point (71.5, -46.5)
+EndPolygon
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "PN")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "DEV")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "VAL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TOL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Step (Name TEM_0805-M.stp)
+EndFootprint
+
+Footprint (Name "TEM_0805-L")
+Pad (Name "1") (Location -29.5, 0) (Surface True) (Rotation 0)
+PadShape (Size 28, 49) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 29.5, 0) (Surface True) (Rotation 0)
+PadShape (Size 28, 49) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -47.5, -28.5) (End -47.5, 28.5) (Layer Mechanical15) 
+Line (Width 6) (Start -47.5, 28.5) (End 47.5, 28.5) (Layer Mechanical15) 
+Line (Width 6) (Start 47.5, 28.5) (End 47.5, -28.5) (Layer Mechanical15) 
+Line (Width 6) (Start 47.5, -28.5) (End -47.5, -28.5) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-47.5, -28.5)
+Point (-47.5, 28.5)
+Point (47.5, 28.5)
+Point (47.5, -28.5)
+EndPolygon
+Line (Width 6) (Start -3.39173794, -29.5) (End 3.39173794, -29.5) (Layer TopOverlay) 
+Line (Width 6) (Start 3.39173794, 29.5) (End -3.39173794, 29.5) (Layer TopOverlay) 
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "PN")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "DEV")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "VAL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TOL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Step (Name TEM_0805-L.stp)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "TEMT6200FX01") (PartCount 1) (DesPrefix "CR?")
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Line (Width 8) (Start 100, 0) (End 137, 0) (Part 1)
+Line (Width 8) (Start 150, 75) (End 150, -75) (Part 1)
+Line (Width 8) (Start 125, 0) (End 150, 0) (Part 1)
+Line (Width 8) (Start 250, -75) (End 250, 75) (Part 1)
+Line (Width 8) (Start 250, 0) (End 300, 0) (Part 1)
+Line (Width 8) (Start 250, 175) (End 275, 150) (Part 1)
+Line (Width 8) (Start 275, 150) (End 325, 200) (Part 1)
+Line (Width 8) (Start 325, 150) (End 350, 125) (Part 1)
+Line (Width 8) (Start 350, 125) (End 400, 175) (Part 1)
+Line (Width 8) (Start 325, 200) (End 300, 200) (Part 1)
+Line (Width 8) (Start 300, 200) (End 325, 175) (Part 1)
+Line (Width 8) (Start 325, 175) (End 325, 200) (Part 1)
+Line (Width 8) (Start 400, 175) (End 375, 175) (Part 1)
+Line (Width 8) (Start 375, 175) (End 400, 150) (Part 1)
+Line (Width 8) (Start 400, 150) (End 400, 175) (Part 1)
+Line (Width 8) (Start 275, 100) (End 325, 150) (Part 1)
+Line (Width 8) (Start 250, 0) (End 150, 75) (Part 1)
+Line (Width 8) (Start 150, -75) (End 250, 0) (Part 1)
+Line (Width 8) (Start 200, 125) (End 250, 175) (Part 1)
+Parameter (Name "Vendor") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Vishay") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "TEMT6200FX01") (Part 1)
+Parameter (Name "Supersection") (Location 0, 0) (Height 60) (Rotation 0) (Justification Center) (Value "Unknown") (Part 1)
+Parameter (Name "Section") (Location 0, 0) (Height 60) (Rotation 0) (Justification Center) (Value "Unknown") (Part 1)
+Parameter (Name "Family") (Location 0, 0) (Height 60) (Rotation 0) (Justification Center) (Value "Unknown") (Part 1)
+Parameter (Name "Manufacturer_Name") (Location 0, 0) (Height 60) (Rotation 0) (Justification Center) (Value "Vishay") (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2015 Accelerated Designs. All rights reserved") (Part 1)
+Parameter (Name "RS_Part_Number") (Location 0, 0) (Height 60) (Rotation 0) (Justification Center) (Value "7103853") (Part 1)
+Parameter (Name "Type") (Location 200, -300) (Height 137) (Rotation 0) (Justification Center) (Value "") (Part 1)
+Parameter (Name "Value") (Location 200, -300) (Height 137) (Rotation 0) (Justification Center) (Value "Value") (Part 1)
+Parameter (Name "RefDes") (Location 200, -175) (Height 137) (Rotation 0) (Justification Center) (Value "") (Part 1)
+Parameter (Name "C") (Location 0, 0) (Height 1) (Rotation 0) (Justification Center) (Value "Copyright (C) 2015 Accelerated Designs. All rights reserved") (Part 1)
+Footprint (Name "TEM_0805")
+EndComponent
+EndComponents

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GPIO_33 Pin=ADCS2Umb-18
+Removed Pin From Net: NetName=GPIO_86 Pin=ADCS2Umb-19
+Removed Pin From Net: NetName=GPIO_32 Pin=ADCS2Umb-20
+Removed Pin From Net: NetName=GPIO_88 Pin=ADCS2Umb-21
+Added Pin To Net: NetName=GPIO_86 Pin=ADCS2Umb-18
+Added Pin To Net: NetName=GPIO_33 Pin=ADCS2Umb-19
+Added Pin To Net: NetName=GPIO_88 Pin=ADCS2Umb-20
+Added Pin To Net: NetName=GPIO_32 Pin=ADCS2Umb-21

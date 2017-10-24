@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V_3 Pin=501571-2007-19
+Removed Pin From Net: NetName=GND Pin=501571-2007-20
+Added Pin To Net: NetName=GND Pin=501571-2007-19
+Added Pin To Net: NetName=5V_3 Pin=501571-2007-20

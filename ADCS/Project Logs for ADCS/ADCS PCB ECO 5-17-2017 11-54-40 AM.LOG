@@ -1,0 +1,55 @@
+Added Component: Designator=ADCS2Umb(ADCS2Umb)
+Added Component: Designator=Mag(Pressure Connector)
+Added Pin To Net: NetName=GPIO_3 Pin=ADCS2Umb-A3
+Added Pin To Net: NetName=GPIO_6 Pin=ADCS2Umb-A6
+Added Pin To Net: NetName=GPIO_9 Pin=ADCS2Umb-A9
+Added Pin To Net: NetName=GPIO_10 Pin=ADCS2Umb-A10
+Added Pin To Net: NetName=GPIO_11 Pin=ADCS2Umb-A11
+Added Pin To Net: NetName=GPIO_12 Pin=ADCS2Umb-A12
+Added Pin To Net: NetName=GPIO_13 Pin=ADCS2Umb-A13
+Added Pin To Net: NetName=GPIO_14 Pin=ADCS2Umb-A14
+Added Pin To Net: NetName=GPIO_15 Pin=ADCS2Umb-A15
+Added Pin To Net: NetName=GPIO_16 Pin=ADCS2Umb-A16
+Added Pin To Net: NetName=24V Pin=ADCS2Umb-A23
+Added Pin To Net: NetName=GND Pin=ADCS2Umb-A24
+Added Pin To Net: NetName=5V_3 Pin=ADCS2Umb-A25
+Added Pin To Net: NetName=NetADCS2Umb_1 Pin=ADCS2Umb-A1
+Added Pin To Net: NetName=NetADCS2Umb_1 Pin=Pot1-1
+Added Net: Name=NetADCS2Umb_1
+Added Pin To Net: NetName=NetADCS2Umb_2 Pin=ADCS2Umb-A2
+Added Pin To Net: NetName=NetADCS2Umb_2 Pin=Pot1-2
+Added Net: Name=NetADCS2Umb_2
+Added Pin To Net: NetName=NetADCS2Umb_4 Pin=ADCS2Umb-A4
+Added Pin To Net: NetName=NetADCS2Umb_4 Pin=Pot2-1
+Added Net: Name=NetADCS2Umb_4
+Added Pin To Net: NetName=NetADCS2Umb_5 Pin=ADCS2Umb-A5
+Added Pin To Net: NetName=NetADCS2Umb_5 Pin=Pot2-2
+Added Net: Name=NetADCS2Umb_5
+Added Pin To Net: NetName=NetADCS2Umb_7 Pin=ADCS2Umb-A7
+Added Pin To Net: NetName=NetADCS2Umb_7 Pin=Pot3-1
+Added Net: Name=NetADCS2Umb_7
+Added Pin To Net: NetName=NetADCS2Umb_8 Pin=ADCS2Umb-A8
+Added Pin To Net: NetName=NetADCS2Umb_8 Pin=Pot3-2
+Added Net: Name=NetADCS2Umb_8
+Added Pin To Net: NetName=NetADCS2Umb_17 Pin=ADCS2Umb-A17
+Added Pin To Net: NetName=NetADCS2Umb_17 Pin=Mag-6
+Added Net: Name=NetADCS2Umb_17
+Added Pin To Net: NetName=NetADCS2Umb_18 Pin=ADCS2Umb-A18
+Added Pin To Net: NetName=NetADCS2Umb_18 Pin=Mag-5
+Added Net: Name=NetADCS2Umb_18
+Added Pin To Net: NetName=NetADCS2Umb_19 Pin=ADCS2Umb-A19
+Added Pin To Net: NetName=NetADCS2Umb_19 Pin=Mag-4
+Added Net: Name=NetADCS2Umb_19
+Added Pin To Net: NetName=NetADCS2Umb_20 Pin=ADCS2Umb-A20
+Added Pin To Net: NetName=NetADCS2Umb_20 Pin=Mag-3
+Added Net: Name=NetADCS2Umb_20
+Added Pin To Net: NetName=NetADCS2Umb_21 Pin=ADCS2Umb-A21
+Added Pin To Net: NetName=NetADCS2Umb_21 Pin=Mag-2
+Added Net: Name=NetADCS2Umb_21
+Added Pin To Net: NetName=NetADCS2Umb_22 Pin=ADCS2Umb-A22
+Added Pin To Net: NetName=NetADCS2Umb_22 Pin=Mag-1
+Added Net: Name=NetADCS2Umb_22
+Added Class: Name=ADCS2Umb
+Added Member To Class: ClassName=Top Member=Component Mag Magnetorquer
+Added Room: Name=ADCS2Umb
+Added Room: Name=Top

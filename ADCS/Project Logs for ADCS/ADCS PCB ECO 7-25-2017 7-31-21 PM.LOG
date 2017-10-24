@@ -1,0 +1,21 @@
+Added Component: Designator=Sun(501571-2007 20Pos Conn)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PT4 Pin=Sun-1
+Added Pin To Net: NetName=PT5 Pin=Sun-2
+Added Pin To Net: NetName=PT6 Pin=Sun-3
+Added Pin To Net: NetName=PT7 Pin=Sun-4
+Added Pin To Net: NetName=PT8 Pin=Sun-5
+Added Pin To Net: NetName=PT9 Pin=Sun-6
+Added Pin To Net: NetName=PT10 Pin=Sun-7
+Added Pin To Net: NetName=PT11 Pin=Sun-8
+Added Pin To Net: NetName=PT12 Pin=Sun-9
+Added Pin To Net: NetName=PT13 Pin=Sun-10
+Added Pin To Net: NetName=PT1 Pin=Sun-11
+Added Pin To Net: NetName=PT2 Pin=Sun-12
+Added Pin To Net: NetName=PT3 Pin=Sun-13
+Added Pin To Net: NetName=PT14 Pin=Sun-14
+Added Pin To Net: NetName=PT15 Pin=Sun-15
+Added Pin To Net: NetName=PT16 Pin=Sun-16
+Added Pin To Net: NetName=GND Pin=Sun-19
+Added Pin To Net: NetName=5V_3 Pin=Sun-20
+Added Member To Class: ClassName=Top Member=Component Sun 501571-2007

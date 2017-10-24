@@ -1,0 +1,27 @@
+Added Component: Designator=Sun Mux(CD74HC4067SM96)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A3 Pin=Sun Mux-1
+Added Pin To Net: NetName=PT8 Pin=Sun Mux-2
+Added Pin To Net: NetName=PT7 Pin=Sun Mux-3
+Added Pin To Net: NetName=PT6 Pin=Sun Mux-4
+Added Pin To Net: NetName=PT5 Pin=Sun Mux-5
+Added Pin To Net: NetName=PT4 Pin=Sun Mux-6
+Added Pin To Net: NetName=PT3 Pin=Sun Mux-7
+Added Pin To Net: NetName=PT2 Pin=Sun Mux-8
+Added Pin To Net: NetName=PT1 Pin=Sun Mux-9
+Added Pin To Net: NetName=GPIO_20 Pin=Sun Mux-10
+Added Pin To Net: NetName=GPIO_21 Pin=Sun Mux-11
+Added Pin To Net: NetName=GND Pin=Sun Mux-12
+Added Pin To Net: NetName=GPIO_23 Pin=Sun Mux-13
+Added Pin To Net: NetName=GPIO_22 Pin=Sun Mux-14
+Added Pin To Net: NetName=GND Pin=Sun Mux-15
+Added Pin To Net: NetName=PT16 Pin=Sun Mux-16
+Added Pin To Net: NetName=PT15 Pin=Sun Mux-17
+Added Pin To Net: NetName=PT14 Pin=Sun Mux-18
+Added Pin To Net: NetName=PT13 Pin=Sun Mux-19
+Added Pin To Net: NetName=PT12 Pin=Sun Mux-20
+Added Pin To Net: NetName=PT11 Pin=Sun Mux-21
+Added Pin To Net: NetName=PT10 Pin=Sun Mux-22
+Added Pin To Net: NetName=PT9 Pin=Sun Mux-23
+Added Pin To Net: NetName=3.3V Pin=Sun Mux-24
+Added Member To Class: ClassName=Top Member=Component Sun Mux CD74HC4067SM96

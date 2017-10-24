@@ -1,0 +1,893 @@
+Added Component: Designator=20K 1024POS DigiPot 1(AD5292BRUZ-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=20K 1024POS DigiPot 2(AD5292BRUZ-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=20K 1024POS DigiPot 3(AD5292BRUZ-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ADCS2Umb(501571-3007)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=AP1017-1(AP1017)
+Add component. Clean all parameters for all variants
+Added Component: Designator=AP1017-2(AP1017)
+Add component. Clean all parameters for all variants
+Added Component: Designator=AP1017-3(AP1017)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (50V)"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (50V)"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (50V)"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3225 [1210]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (50V)"; VariantName = "[No Variations]"
+Added Component: Designator=C5(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3225 [1210]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (50V)"; VariantName = "[No Variations]"
+Added Component: Designator=C6(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3225 [1210]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (50V)"; VariantName = "[No Variations]"
+Added Component: Designator=C7(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C8(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C9(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C18(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C19(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C20(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C24(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C25(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C26(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C27(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C28(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=C29(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "3216 [1206]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF (10V)"; VariantName = "[No Variations]"
+Added Component: Designator=Mag(Pressure Connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor1(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor2(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor3(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MUX1(SN74LVC1G18DBVR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MUX2(SN74LVC1G18DBVR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Mux(DB24)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D_Library_Name"; Value = "TI_Delivered_11-28-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Analogue Switch Multiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD74HC4067SM96E4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS_Part_Number"; Value = "6622570"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Section"; Value = "Switches and Multiplexers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=PhotoTrans(501571-3007)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(2-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "If flow soldering, adjust pad width of PCB Footprint to 0.7 - 0.8 times the width of the resistor."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "2-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22K (0.1W)"; VariantName = "[No Variations]"
+Added Component: Designator=R2(2-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "If flow soldering, adjust pad width of PCB Footprint to 0.7 - 0.8 times the width of the resistor."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "2-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22K (0.1W)"; VariantName = "[No Variations]"
+Added Component: Designator=R3(2-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "If flow soldering, adjust pad width of PCB Footprint to 0.7 - 0.8 times the width of the resistor."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "2-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22K (0.1W)"; VariantName = "[No Variations]"
+Added Component: Designator=U1(751A-03_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub/Collateral/MC74AC86-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "9-Apr-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_1 Pin=AP1017-1-7
+Added Pin To Net: NetName=3.3V_1 Pin=AP1017-2-7
+Added Pin To Net: NetName=3.3V_1 Pin=AP1017-3-7
+Added Pin To Net: NetName=3.3V_1 Pin=C16-1
+Added Pin To Net: NetName=3.3V_1 Pin=C17-1
+Added Pin To Net: NetName=3.3V_1 Pin=C22-1
+Added Pin To Net: NetName=3.3V_1 Pin=C23-1
+Added Pin To Net: NetName=3.3V_1 Pin=C24-1
+Added Pin To Net: NetName=3.3V_1 Pin=C25-1
+Added Pin To Net: NetName=3.3V_1 Pin=C26-1
+Added Pin To Net: NetName=3.3V_1 Pin=C27-1
+Added Pin To Net: NetName=3.3V_1 Pin=C28-2
+Added Pin To Net: NetName=3.3V_1 Pin=C29-2
+Added Pin To Net: NetName=3.3V_1 Pin=MUX1-5
+Added Pin To Net: NetName=3.3V_1 Pin=MUX2-5
+Added Pin To Net: NetName=3.3V_1 Pin=Mux-24
+Added Pin To Net: NetName=3.3V_1 Pin=U1-14
+Added Net: Name=3.3V_1
+Added Pin To Net: NetName=5V_3 Pin=20K 1024POS DigiPot 1-1
+Added Pin To Net: NetName=5V_3 Pin=20K 1024POS DigiPot 1-8
+Added Pin To Net: NetName=5V_3 Pin=20K 1024POS DigiPot 2-1
+Added Pin To Net: NetName=5V_3 Pin=20K 1024POS DigiPot 2-8
+Added Pin To Net: NetName=5V_3 Pin=20K 1024POS DigiPot 3-1
+Added Pin To Net: NetName=5V_3 Pin=20K 1024POS DigiPot 3-8
+Added Pin To Net: NetName=5V_3 Pin=C7-2
+Added Pin To Net: NetName=5V_3 Pin=C8-2
+Added Pin To Net: NetName=5V_3 Pin=C9-2
+Added Pin To Net: NetName=5V_3 Pin=C10-2
+Added Pin To Net: NetName=5V_3 Pin=C11-2
+Added Pin To Net: NetName=5V_3 Pin=C12-2
+Added Net: Name=5V_3
+Added Pin To Net: NetName=24V Pin=20K 1024POS DigiPot 1-6
+Added Pin To Net: NetName=24V Pin=20K 1024POS DigiPot 2-6
+Added Pin To Net: NetName=24V Pin=20K 1024POS DigiPot 3-6
+Added Pin To Net: NetName=24V Pin=C1-2
+Added Pin To Net: NetName=24V Pin=C2-2
+Added Pin To Net: NetName=24V Pin=C3-2
+Added Pin To Net: NetName=24V Pin=C4-2
+Added Pin To Net: NetName=24V Pin=C5-2
+Added Pin To Net: NetName=24V Pin=C6-2
+Added Pin To Net: NetName=24V Pin=Motor1-1
+Added Pin To Net: NetName=24V Pin=Motor2-1
+Added Pin To Net: NetName=24V Pin=Motor3-1
+Added Pin To Net: NetName=24V Pin=R1-2
+Added Pin To Net: NetName=24V Pin=R2-2
+Added Pin To Net: NetName=24V Pin=R3-2
+Added Net: Name=24V
+Added Pin To Net: NetName=AIN6 Pin=Mux-1
+Added Net: Name=AIN6
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 1-2
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 1-4
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 1-9
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 2-2
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 2-4
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 2-9
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 3-2
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 3-4
+Added Pin To Net: NetName=GND Pin=20K 1024POS DigiPot 3-9
+Added Pin To Net: NetName=GND Pin=AP1017-1-9
+Added Pin To Net: NetName=GND Pin=AP1017-1-9
+Added Pin To Net: NetName=GND Pin=AP1017-2-9
+Added Pin To Net: NetName=GND Pin=AP1017-2-9
+Added Pin To Net: NetName=GND Pin=AP1017-3-9
+Added Pin To Net: NetName=GND Pin=AP1017-3-9
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=Motor1-0
+Added Pin To Net: NetName=GND Pin=Motor2-0
+Added Pin To Net: NetName=GND Pin=Motor3-0
+Added Pin To Net: NetName=GND Pin=MUX1-2
+Added Pin To Net: NetName=GND Pin=MUX2-2
+Added Pin To Net: NetName=GND Pin=Mux-12
+Added Pin To Net: NetName=GND Pin=Mux-15
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_10 Pin=Mux-14
+Added Net: Name=GPIO_10
+Added Pin To Net: NetName=GPIO_11 Pin=Mux-13
+Added Net: Name=GPIO_11
+Added Pin To Net: NetName=GPIO_26 Pin=AP1017-2-2
+Added Pin To Net: NetName=GPIO_26 Pin=U1-5
+Added Net: Name=GPIO_26
+Added Pin To Net: NetName=GPIO_32 Pin=Motor3-2
+Added Net: Name=GPIO_32
+Added Pin To Net: NetName=GPIO_33 Pin=Motor2-2
+Added Net: Name=GPIO_33
+Added Pin To Net: NetName=GPIO_36 Pin=Motor1-2
+Added Net: Name=GPIO_36
+Added Pin To Net: NetName=GPIO_37 Pin=MUX2-1
+Added Net: Name=GPIO_37
+Added Pin To Net: NetName=GPIO_44 Pin=AP1017-2-1
+Added Pin To Net: NetName=GPIO_44 Pin=U1-4
+Added Net: Name=GPIO_44
+Added Pin To Net: NetName=GPIO_45 Pin=AP1017-3-2
+Added Pin To Net: NetName=GPIO_45 Pin=U1-2
+Added Net: Name=GPIO_45
+Added Pin To Net: NetName=GPIO_46 Pin=AP1017-1-2
+Added Pin To Net: NetName=GPIO_46 Pin=U1-10
+Added Net: Name=GPIO_46
+Added Pin To Net: NetName=GPIO_47 Pin=AP1017-1-1
+Added Pin To Net: NetName=GPIO_47 Pin=U1-9
+Added Net: Name=GPIO_47
+Added Pin To Net: NetName=GPIO_61 Pin=Motor1-4
+Added Net: Name=GPIO_61
+Added Pin To Net: NetName=GPIO_62 Pin=MUX1-1
+Added Net: Name=GPIO_62
+Added Pin To Net: NetName=GPIO_68 Pin=AP1017-3-1
+Added Pin To Net: NetName=GPIO_68 Pin=U1-1
+Added Net: Name=GPIO_68
+Added Pin To Net: NetName=GPIO_86 Pin=Motor2-4
+Added Net: Name=GPIO_86
+Added Pin To Net: NetName=GPIO_87 Pin=Mux-10
+Added Net: Name=GPIO_87
+Added Pin To Net: NetName=GPIO_88 Pin=Motor3-4
+Added Net: Name=GPIO_88
+Added Pin To Net: NetName=GPIO_89 Pin=Mux-11
+Added Net: Name=GPIO_89
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_3 Pin=20K 1024POS DigiPot 1-3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_3 Pin=Motor1-3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_3 Pin=R1-1
+Added Net: Name=Net20K 1024POS DigiPot 1_3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_7 Pin=20K 1024POS DigiPot 1-7
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_7 Pin=C13-1
+Added Net: Name=Net20K 1024POS DigiPot 1_7
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_12 Pin=20K 1024POS DigiPot 1-12
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 1_12 Pin=MUX2-6
+Added Net: Name=Net20K 1024POS DigiPot 1_12
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_3 Pin=20K 1024POS DigiPot 2-3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_3 Pin=Motor2-3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_3 Pin=R2-1
+Added Net: Name=Net20K 1024POS DigiPot 2_3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_7 Pin=20K 1024POS DigiPot 2-7
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_7 Pin=C14-1
+Added Net: Name=Net20K 1024POS DigiPot 2_7
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_12 Pin=20K 1024POS DigiPot 2-12
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 2_12 Pin=MUX2-4
+Added Net: Name=Net20K 1024POS DigiPot 2_12
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_3 Pin=20K 1024POS DigiPot 3-3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_3 Pin=Motor3-3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_3 Pin=R3-1
+Added Net: Name=Net20K 1024POS DigiPot 3_3
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_7 Pin=20K 1024POS DigiPot 3-7
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_7 Pin=C15-1
+Added Net: Name=Net20K 1024POS DigiPot 3_7
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_12 Pin=20K 1024POS DigiPot 3-12
+Added Pin To Net: NetName=Net20K 1024POS DigiPot 3_12 Pin=MUX1-4
+Added Net: Name=Net20K 1024POS DigiPot 3_12
+Added Pin To Net: NetName=NetAP1017-1_3 Pin=AP1017-1-3
+Added Pin To Net: NetName=NetAP1017-1_3 Pin=AP1017-1-8
+Added Pin To Net: NetName=NetAP1017-1_3 Pin=U1-8
+Added Net: Name=NetAP1017-1_3
+Added Pin To Net: NetName=NetAP1017-1_4 Pin=AP1017-1-4
+Added Pin To Net: NetName=NetAP1017-1_4 Pin=Mag-2
+Added Net: Name=NetAP1017-1_4
+Added Pin To Net: NetName=NetAP1017-1_5 Pin=AP1017-1-5
+Added Pin To Net: NetName=NetAP1017-1_5 Pin=Mag-1
+Added Net: Name=NetAP1017-1_5
+Added Pin To Net: NetName=NetAP1017-2_3 Pin=AP1017-2-3
+Added Pin To Net: NetName=NetAP1017-2_3 Pin=AP1017-2-8
+Added Pin To Net: NetName=NetAP1017-2_3 Pin=U1-6
+Added Net: Name=NetAP1017-2_3
+Added Pin To Net: NetName=NetAP1017-2_4 Pin=AP1017-2-4
+Added Pin To Net: NetName=NetAP1017-2_4 Pin=Mag-4
+Added Net: Name=NetAP1017-2_4
+Added Pin To Net: NetName=NetAP1017-2_5 Pin=AP1017-2-5
+Added Pin To Net: NetName=NetAP1017-2_5 Pin=Mag-3
+Added Net: Name=NetAP1017-2_5
+Added Pin To Net: NetName=NetAP1017-3_3 Pin=AP1017-3-3
+Added Pin To Net: NetName=NetAP1017-3_3 Pin=AP1017-3-8
+Added Pin To Net: NetName=NetAP1017-3_3 Pin=U1-3
+Added Net: Name=NetAP1017-3_3
+Added Pin To Net: NetName=NetAP1017-3_4 Pin=AP1017-3-4
+Added Pin To Net: NetName=NetAP1017-3_4 Pin=Mag-6
+Added Net: Name=NetAP1017-3_4
+Added Pin To Net: NetName=NetAP1017-3_5 Pin=AP1017-3-5
+Added Pin To Net: NetName=NetAP1017-3_5 Pin=Mag-5
+Added Net: Name=NetAP1017-3_5
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=C29-1
+Added Pin To Net: NetName=NetC28_1 Pin=U1-7
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetMUX1_6 Pin=MUX1-6
+Added Pin To Net: NetName=NetMUX1_6 Pin=MUX2-3
+Added Net: Name=NetMUX1_6
+Added Pin To Net: NetName=PT1 Pin=Mux-9
+Added Net: Name=PT1
+Added Pin To Net: NetName=PT2 Pin=Mux-8
+Added Net: Name=PT2
+Added Pin To Net: NetName=PT3 Pin=Mux-7
+Added Net: Name=PT3
+Added Pin To Net: NetName=PT4 Pin=Mux-6
+Added Net: Name=PT4
+Added Pin To Net: NetName=PT5 Pin=Mux-5
+Added Net: Name=PT5
+Added Pin To Net: NetName=PT6 Pin=Mux-4
+Added Net: Name=PT6
+Added Pin To Net: NetName=PT7 Pin=Mux-3
+Added Net: Name=PT7
+Added Pin To Net: NetName=PT8 Pin=Mux-2
+Added Net: Name=PT8
+Added Pin To Net: NetName=PT9 Pin=Mux-23
+Added Net: Name=PT9
+Added Pin To Net: NetName=PT10 Pin=Mux-22
+Added Net: Name=PT10
+Added Pin To Net: NetName=PT11 Pin=Mux-21
+Added Net: Name=PT11
+Added Pin To Net: NetName=PT12 Pin=Mux-20
+Added Net: Name=PT12
+Added Pin To Net: NetName=PT13 Pin=Mux-19
+Added Net: Name=PT13
+Added Pin To Net: NetName=PT14 Pin=Mux-18
+Added Net: Name=PT14
+Added Pin To Net: NetName=PT15 Pin=Mux-17
+Added Net: Name=PT15
+Added Pin To Net: NetName=PT16 Pin=Mux-16
+Added Net: Name=PT16
+Added Pin To Net: NetName=PWM2A (P8,19) Pin=AP1017-3-6
+Added Pin To Net: NetName=PWM2A (P8,19) Pin=C19-1
+Added Net: Name=PWM2A (P8,19)
+Added Pin To Net: NetName=PWM2B (P8,13) Pin=AP1017-2-6
+Added Pin To Net: NetName=PWM2B (P8,13) Pin=C20-1
+Added Net: Name=PWM2B (P8,13)
+Added Pin To Net: NetName=PWM18 (P8,34) Pin=AP1017-1-6
+Added Pin To Net: NetName=PWM18 (P8,34) Pin=C18-2
+Added Net: Name=PWM18 (P8,34)
+Added Pin To Net: NetName=SPI1_CS0 Pin=MUX1-3
+Added Net: Name=SPI1_CS0
+Added Pin To Net: NetName=SPI1_DI Pin=20K 1024POS DigiPot 1-10
+Added Pin To Net: NetName=SPI1_DI Pin=20K 1024POS DigiPot 2-10
+Added Pin To Net: NetName=SPI1_DI Pin=20K 1024POS DigiPot 3-10
+Added Net: Name=SPI1_DI
+Added Net: Name=SPI1_DO
+Added Pin To Net: NetName=SPI1_SCLK Pin=20K 1024POS DigiPot 1-11
+Added Pin To Net: NetName=SPI1_SCLK Pin=20K 1024POS DigiPot 2-11
+Added Pin To Net: NetName=SPI1_SCLK Pin=20K 1024POS DigiPot 3-11
+Added Net: Name=SPI1_SCLK
+Added Member To Class: ClassName=Top Member=Component 20K 1024POS DigiPot 1 AD5292BRUZ-20
+Added Member To Class: ClassName=Top Member=Component 20K 1024POS DigiPot 2 AD5292BRUZ-20
+Added Member To Class: ClassName=Top Member=Component 20K 1024POS DigiPot 3 AD5292BRUZ-20
+Added Member To Class: ClassName=Top Member=Component ADCS2Umb
+Added Member To Class: ClassName=Top Member=Component AP1017-1 H-Bridge
+Added Member To Class: ClassName=Top Member=Component AP1017-2 H-Bridge
+Added Member To Class: ClassName=Top Member=Component AP1017-3 H-Bridge
+Added Member To Class: ClassName=Top Member=Component C1 C0603
+Added Member To Class: ClassName=Top Member=Component C2 C0603
+Added Member To Class: ClassName=Top Member=Component C3 C0603
+Added Member To Class: ClassName=Top Member=Component C4 C1210
+Added Member To Class: ClassName=Top Member=Component C5 C1210
+Added Member To Class: ClassName=Top Member=Component C6 C1210
+Added Member To Class: ClassName=Top Member=Component C7 C1206
+Added Member To Class: ClassName=Top Member=Component C8 C1206
+Added Member To Class: ClassName=Top Member=Component C9 C1206
+Added Member To Class: ClassName=Top Member=Component C10 C0402
+Added Member To Class: ClassName=Top Member=Component C11 C0402
+Added Member To Class: ClassName=Top Member=Component C12 C0402
+Added Member To Class: ClassName=Top Member=Component C13 C0402
+Added Member To Class: ClassName=Top Member=Component C14 C0402
+Added Member To Class: ClassName=Top Member=Component C15 C0402
+Added Member To Class: ClassName=Top Member=Component C16 C0402
+Added Member To Class: ClassName=Top Member=Component C17 C0402
+Added Member To Class: ClassName=Top Member=Component C18 C1206
+Added Member To Class: ClassName=Top Member=Component C19 C1206
+Added Member To Class: ClassName=Top Member=Component C20 C1206
+Added Member To Class: ClassName=Top Member=Component C21 C0402
+Added Member To Class: ClassName=Top Member=Component C22 C0402
+Added Member To Class: ClassName=Top Member=Component C23 C0402
+Added Member To Class: ClassName=Top Member=Component C24 C0402
+Added Member To Class: ClassName=Top Member=Component C25 C1206
+Added Member To Class: ClassName=Top Member=Component C26 C1206
+Added Member To Class: ClassName=Top Member=Component C27 C1206
+Added Member To Class: ClassName=Top Member=Component C28 C0402
+Added Member To Class: ClassName=Top Member=Component C29 C1206
+Added Member To Class: ClassName=Top Member=Component Mag Magnetorquer
+Added Member To Class: ClassName=Top Member=Component Motor1 Motor Connection
+Added Member To Class: ClassName=Top Member=Component Motor2 Motor Connection
+Added Member To Class: ClassName=Top Member=Component Motor3 Motor Connection
+Added Member To Class: ClassName=Top Member=Component MUX1 SN74LVC1G18DBVR
+Added Member To Class: ClassName=Top Member=Component MUX2 SN74LVC1G18DBVR
+Added Member To Class: ClassName=Top Member=Component Mux CD74HC4067SM96
+Added Member To Class: ClassName=Top Member=Component PhotoTrans 501571-3007
+Added Member To Class: ClassName=Top Member=Component R1 ERJ2GE
+Added Member To Class: ClassName=Top Member=Component R2 ERJ2GE
+Added Member To Class: ClassName=Top Member=Component R3 ERJ2GE
+Added Member To Class: ClassName=Top Member=Component U1 MC74AC86D
+Added Room: Name=Top

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=PT1 Pin=ADCS2Umb-A9
+Removed Pin From Net: NetName=PT2 Pin=ADCS2Umb-A10
+Removed Pin From Net: NetName=PT3 Pin=ADCS2Umb-A11
+Removed Pin From Net: NetName=PT4 Pin=ADCS2Umb-A12
+Removed Pin From Net: NetName=PT5 Pin=ADCS2Umb-A13
+Removed Pin From Net: NetName=PT6 Pin=ADCS2Umb-A14
+Removed Pin From Net: NetName=PT7 Pin=ADCS2Umb-A15
+Removed Pin From Net: NetName=PT8 Pin=ADCS2Umb-A16
+Removed Member From Class: ClassName=Top Member=ADCS2Umb
+Change Component Library : Designator=ADCS2Umb Old Library=* New Library=UmbilicalBoardV2.SCHLIB
+Added Component: Designator=PhotoTrans(ADCS2Umb)
+Added Pin To Net: NetName=PT1 Pin=PhotoTrans-A9
+Added Pin To Net: NetName=PT2 Pin=PhotoTrans-A10
+Added Pin To Net: NetName=PT3 Pin=PhotoTrans-A11
+Added Pin To Net: NetName=PT4 Pin=PhotoTrans-A12
+Added Pin To Net: NetName=PT5 Pin=PhotoTrans-A13
+Added Pin To Net: NetName=PT6 Pin=PhotoTrans-A14
+Added Pin To Net: NetName=PT7 Pin=PhotoTrans-A15
+Added Pin To Net: NetName=PT8 Pin=PhotoTrans-A16
+Added Pin To Net: NetName=NetMux_2 Pin=Mux-2
+Added Pin To Net: NetName=NetMux_2 Pin=PhotoTrans-A1
+Added Net: Name=NetMux_2
+Added Pin To Net: NetName=NetMux_3 Pin=Mux-3
+Added Pin To Net: NetName=NetMux_3 Pin=PhotoTrans-A2
+Added Net: Name=NetMux_3
+Added Pin To Net: NetName=NetMux_4 Pin=Mux-4
+Added Pin To Net: NetName=NetMux_4 Pin=PhotoTrans-A3
+Added Net: Name=NetMux_4
+Added Pin To Net: NetName=NetMux_5 Pin=Mux-5
+Added Pin To Net: NetName=NetMux_5 Pin=PhotoTrans-A4
+Added Net: Name=NetMux_5
+Added Pin To Net: NetName=NetMux_6 Pin=Mux-6
+Added Pin To Net: NetName=NetMux_6 Pin=PhotoTrans-A5
+Added Net: Name=NetMux_6
+Added Pin To Net: NetName=NetMux_7 Pin=Mux-7
+Added Pin To Net: NetName=NetMux_7 Pin=PhotoTrans-A6
+Added Net: Name=NetMux_7
+Added Pin To Net: NetName=NetMux_8 Pin=Mux-8
+Added Pin To Net: NetName=NetMux_8 Pin=PhotoTrans-A7
+Added Net: Name=NetMux_8
+Added Pin To Net: NetName=NetMux_9 Pin=Mux-9
+Added Pin To Net: NetName=NetMux_9 Pin=PhotoTrans-A8
+Added Net: Name=NetMux_9
+Added Member To Class: ClassName=Top Member=Component PhotoTrans

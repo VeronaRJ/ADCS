@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=HS3 Pin=HS Mux-2
+Removed Pin From Net: NetName=HS2 Pin=HS Mux-4
+Removed Pin From Net: NetName=HS1 Pin=HS Mux-9
+Added Pin To Net: NetName=HS2 Pin=HS Mux-2
+Added Pin To Net: NetName=HS1 Pin=HS Mux-4
+Added Pin To Net: NetName=HS3 Pin=HS Mux-9

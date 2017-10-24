@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=S1 Pin=DigiPot 1-12
+Removed Pin From Net: NetName=S2 Pin=DigiPot 2-12
+Removed Pin From Net: NetName=S3 Pin=DigiPot 3-12
+Added Pin To Net: NetName=S2 Pin=DigiPot 1-12
+Added Pin To Net: NetName=S3 Pin=DigiPot 2-12
+Added Pin To Net: NetName=S1 Pin=DigiPot 3-12

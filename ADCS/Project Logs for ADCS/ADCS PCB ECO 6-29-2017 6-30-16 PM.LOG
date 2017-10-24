@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=Mag1A Pin=AP1017-1-4
+Added Pin To Net: NetName=Mag1A Pin=Mag-1
+Added Net: Name=Mag1A
+Added Pin To Net: NetName=Mag1B Pin=AP1017-1-5
+Added Pin To Net: NetName=Mag1B Pin=Mag-2
+Added Net: Name=Mag1B
+Added Pin To Net: NetName=Mag2A Pin=AP1017-2-4
+Added Pin To Net: NetName=Mag2A Pin=Mag-3
+Added Net: Name=Mag2A
+Added Pin To Net: NetName=Mag2B Pin=AP1017-2-5
+Added Pin To Net: NetName=Mag2B Pin=Mag-4
+Added Net: Name=Mag2B
+Added Pin To Net: NetName=Mag3A Pin=AP1017-3-4
+Added Pin To Net: NetName=Mag3A Pin=Mag-5
+Added Net: Name=Mag3A
+Added Pin To Net: NetName=Mag3B Pin=AP1017-3-5
+Added Pin To Net: NetName=Mag3B Pin=Mag-6
+Added Net: Name=Mag3B

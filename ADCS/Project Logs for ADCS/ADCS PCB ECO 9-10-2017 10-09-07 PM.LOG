@@ -1,0 +1,7 @@
+Added Component: Designator=Sun Sensor 1(Phototransistor)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetLabel215 Pin=Sun Sensor 1-1
+Added Net: Name=NetLabel215
+Added Pin To Net: NetName=NetLabel216 Pin=Sun Sensor 1-2
+Added Net: Name=NetLabel216
+Added Member To Class: ClassName=Top Member=Component Sun Sensor 1 TEMT6200FX01

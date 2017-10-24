@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=ADCSHSC2-2
+Removed Pin From Net: NetName=GND Pin=ADCSHSC3-2
+Added Component: Designator=IMU(532610471)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=IMU-1
+Added Pin To Net: NetName=GND Pin=IMU-2
+Added Pin To Net: NetName=SDA0 Pin=IMU-3
+Added Pin To Net: NetName=SCL0 Pin=IMU-4
+Added Member To Class: ClassName=Top Member=Component IMU Connector 4POS Molex PicoBlade
+Added Room: Name=Top

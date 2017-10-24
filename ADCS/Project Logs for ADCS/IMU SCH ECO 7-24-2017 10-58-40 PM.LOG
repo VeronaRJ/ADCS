@@ -1,0 +1,55 @@
+Remove Pin=501571-2007-1 From Net=PT4
+Remove Pin=501571-2007-2 From Net=PT5
+Remove Pin=501571-2007-3 From Net=PT6
+Remove Pin=501571-2007-4 From Net=PT7
+Remove Pin=501571-2007-5 From Net=PT8
+Remove Pin=501571-2007-6 From Net=PT9
+Remove Pin=501571-2007-7 From Net=PT10
+Remove Pin=501571-2007-8 From Net=PT11
+Remove Pin=501571-2007-9 From Net=PT12
+Remove Pin=501571-2007-10 From Net=PT13
+Remove Pin=501571-2007-11 From Net=PT1
+Remove Pin=501571-2007-12 From Net=PT2
+Remove Pin=501571-2007-13 From Net=PT3
+Remove Pin=501571-2007-14 From Net=PT14
+Remove Pin=501571-2007-15 From Net=PT15
+Remove Pin=501571-2007-16 From Net=PT16
+Remove Pin=501571-2007-20 From Net=5V_3
+Remove Pin=ADCS Conn-0 From Net=24V
+Remove Pin=ADCS Conn-1 From Net=5V_3
+Remove Pin=ADCS Conn-2 From Net=GND
+Remove Pin=AP1017-1-4 From Net=Mag1A
+Remove Pin=AP1017-1-5 From Net=Mag1B
+Remove Pin=AP1017-2-4 From Net=Mag2A
+Remove Pin=AP1017-2-5 From Net=Mag2B
+Remove Pin=AP1017-3-4 From Net=Mag3A
+Remove Pin=AP1017-3-5 From Net=Mag3B
+Remove Pin=Mag-1 From Net=Mag1A
+Remove Pin=Mag-2 From Net=Mag1B
+Remove Pin=Mag-3 From Net=Mag2A
+Remove Pin=Mag-4 From Net=Mag2B
+Remove Pin=Mag-5 From Net=Mag3A
+Remove Pin=Mag-6 From Net=Mag3B
+Remove Pin=Motor1-1 From Net=24V
+Remove Pin=Motor2-1 From Net=24V
+Remove Pin=Motor3-1 From Net=24V
+Remove Pin=R1-2 From Net=24V
+Remove Pin=R2-2 From Net=24V
+Remove Pin=R3-2 From Net=24V
+Remove Pin=Sun Mux-2 From Net=PT8
+Remove Pin=Sun Mux-3 From Net=PT7
+Remove Pin=Sun Mux-4 From Net=PT6
+Remove Pin=Sun Mux-5 From Net=PT5
+Remove Pin=Sun Mux-6 From Net=PT4
+Remove Pin=Sun Mux-7 From Net=PT3
+Remove Pin=Sun Mux-8 From Net=PT2
+Remove Pin=Sun Mux-9 From Net=PT1
+Remove Pin=Sun Mux-16 From Net=PT16
+Remove Pin=Sun Mux-17 From Net=PT15
+Remove Pin=Sun Mux-18 From Net=PT14
+Remove Pin=Sun Mux-19 From Net=PT13
+Remove Pin=Sun Mux-20 From Net=PT12
+Remove Pin=Sun Mux-21 From Net=PT11
+Remove Pin=Sun Mux-22 From Net=PT10
+Remove Pin=Sun Mux-23 From Net=PT9
+Remove Pin=Teensy 3.2-33 From Net=5V_3

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Pin To Net: NetName=24V Pin=R1-2
+Added Pin To Net: NetName=24V Pin=R2-2
+Added Pin To Net: NetName=24V Pin=R3-2
+Added Net: Name=24V
+Added Pin To Net: NetName=NetPot1_1 Pin=Pot1-1
+Added Net: Name=NetPot1_1
+Added Pin To Net: NetName=NetPot1_2 Pin=Pot1-2
+Added Net: Name=NetPot1_2
+Added Member To Class: ClassName=Top Member=Component PhotoTrans
+Added Member To Class: ClassName=Top Member=Component R1 42kohm
+Added Member To Class: ClassName=Top Member=Component R2 42kohm

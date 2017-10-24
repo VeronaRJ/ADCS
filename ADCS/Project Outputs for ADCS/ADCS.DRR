@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ADCS.PcbDoc   9/24/2017  3:11:58 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ADCS.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             102       PTH        17.82inch (452.74mm)
+T2      16mil (0.4mm)                                             Round             33        PTH        10.54inch (267.77mm)
+T3      24mil (0.6mm)           +/-2mil (0.05mm)                  Round             5         PTH        0.25inch (6.25mm)
+T4      24mil (0.6mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T5      32mil (0.813mm)                                           Round             5         PTH        1.96inch (49.79mm)
+T6      71mil (1.8mm)                                             Round             2         PTH        0.30inch (7.60mm)
+T7      87mil (2.2mm)                                             Round             3         PTH        0.77inch (19.65mm)
+T8      108mil (2.75mm)                                           Round             4         PTH        5.07inch (128.76mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              155
+
+Total Processing Time (hh:mm:ss) : 00:00:00

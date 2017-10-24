@@ -1,0 +1,55 @@
+Added Component: Designator=Motor1(Molex Picoblade 5 Pin)
+Added Component: Designator=Motor2(Molex Picoblade 5 Pin)
+Added Component: Designator=Motor3(Molex Picoblade 5 Pin)
+Added Pin To Net: NetName=GND Pin=Motor1-1
+Added Pin To Net: NetName=24V Pin=Motor1-2
+Added Pin To Net: NetName=GND Pin=Motor2-1
+Added Pin To Net: NetName=24V Pin=Motor2-2
+Added Pin To Net: NetName=GND Pin=Motor3-1
+Added Pin To Net: NetName=24V Pin=Motor3-2
+Added Pin To Net: NetName=GND Pin=Pot1-6
+Added Pin To Net: NetName=GND Pin=Pot2-6
+Added Pin To Net: NetName=GND Pin=Pot3-6
+Added Pin To Net: NetName=GPIO_3 Pin=Pot1-7
+Added Net: Name=GPIO_3
+Added Pin To Net: NetName=GPIO_6 Pin=Pot2-7
+Added Net: Name=GPIO_6
+Added Pin To Net: NetName=GPIO_9 Pin=Pot3-7
+Added Net: Name=GPIO_9
+Added Pin To Net: NetName=GPIO_10 Pin=Motor1-3
+Added Net: Name=GPIO_10
+Added Pin To Net: NetName=GPIO_11 Pin=Motor2-3
+Added Net: Name=GPIO_11
+Added Pin To Net: NetName=GPIO_12 Pin=Motor3-3
+Added Net: Name=GPIO_12
+Added Pin To Net: NetName=GPIO_13 Pin=Mux-10
+Added Net: Name=GPIO_13
+Added Pin To Net: NetName=GPIO_14 Pin=Mux-11
+Added Net: Name=GPIO_14
+Added Pin To Net: NetName=GPIO_15 Pin=Mux-14
+Added Net: Name=GPIO_15
+Added Pin To Net: NetName=GPIO_16 Pin=Mux-13
+Added Net: Name=GPIO_16
+Added Pin To Net: NetName=NetMotor1_4 Pin=Motor1-4
+Added Pin To Net: NetName=NetMotor1_4 Pin=Pot1-5
+Added Pin To Net: NetName=NetMotor1_4 Pin=R1-1
+Added Net: Name=NetMotor1_4
+Added Pin To Net: NetName=NetMotor2_4 Pin=Motor2-4
+Added Pin To Net: NetName=NetMotor2_4 Pin=Pot2-5
+Added Pin To Net: NetName=NetMotor2_4 Pin=R2-1
+Added Net: Name=NetMotor2_4
+Added Pin To Net: NetName=NetMotor3_4 Pin=Motor3-4
+Added Pin To Net: NetName=NetMotor3_4 Pin=Pot3-5
+Added Pin To Net: NetName=NetMotor3_4 Pin=R3-1
+Added Net: Name=NetMotor3_4
+Added Pin To Net: NetName=NetPot2_1 Pin=Pot2-1
+Added Net: Name=NetPot2_1
+Added Pin To Net: NetName=NetPot2_2 Pin=Pot2-2
+Added Net: Name=NetPot2_2
+Added Pin To Net: NetName=NetPot3_1 Pin=Pot3-1
+Added Net: Name=NetPot3_1
+Added Pin To Net: NetName=NetPot3_2 Pin=Pot3-2
+Added Net: Name=NetPot3_2
+Added Member To Class: ClassName=Top Member=Component Motor1 Motor Connection
+Added Member To Class: ClassName=Top Member=Component Motor2 Motor Connection
+Added Member To Class: ClassName=Top Member=Component Motor3 Motor Connection

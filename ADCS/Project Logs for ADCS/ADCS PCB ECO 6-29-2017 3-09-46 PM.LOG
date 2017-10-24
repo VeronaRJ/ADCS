@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PT15 Pin=PhotoTrans-9
+Removed Pin From Net: NetName=PT14 Pin=PhotoTrans-10
+Removed Pin From Net: NetName=PT13 Pin=PhotoTrans-11
+Removed Pin From Net: NetName=PT11 Pin=PhotoTrans-13
+Removed Pin From Net: NetName=PT10 Pin=PhotoTrans-14
+Removed Pin From Net: NetName=PT9 Pin=PhotoTrans-15
+Added Pin To Net: NetName=PT9 Pin=PhotoTrans-9
+Added Pin To Net: NetName=PT10 Pin=PhotoTrans-10
+Added Pin To Net: NetName=PT11 Pin=PhotoTrans-11
+Added Pin To Net: NetName=PT13 Pin=PhotoTrans-13
+Added Pin To Net: NetName=PT14 Pin=PhotoTrans-14
+Added Pin To Net: NetName=PT15 Pin=PhotoTrans-15

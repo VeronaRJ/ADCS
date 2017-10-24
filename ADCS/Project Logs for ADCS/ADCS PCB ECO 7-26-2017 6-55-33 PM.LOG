@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO_12 Pin=HS Mux-1
+Removed Pin From Net: NetName=GPIO_22 Pin=HS Mux-10
+Added Pin To Net: NetName=GPIO_22 Pin=HS Mux-1
+Added Pin To Net: NetName=GPIO_12 Pin=HS Mux-10

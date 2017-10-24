@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=20K 1024POS DigiPot 1 NewDesignator=20K DigiPot 1
+Change Component Designator: OldDesignator=20K 1024POS DigiPot 2 NewDesignator=20K DigiPot 2
+Change Component Designator: OldDesignator=20K 1024POS DigiPot 3 NewDesignator=20K DigiPot 3
+Added Pin To Net: NetName=GND Pin=U1-7
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 1_3 New Net Name=Net20K DigiPot 1_3
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 1_7 New Net Name=Net20K DigiPot 1_7
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 1_12 New Net Name=Net20K DigiPot 1_12
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 2_3 New Net Name=Net20K DigiPot 2_3
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 2_7 New Net Name=Net20K DigiPot 2_7
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 2_12 New Net Name=Net20K DigiPot 2_12
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 3_3 New Net Name=Net20K DigiPot 3_3
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 3_7 New Net Name=Net20K DigiPot 3_7
+Change Net Name : Old Net Name=Net20K 1024POS DigiPot 3_12 New Net Name=Net20K DigiPot 3_12

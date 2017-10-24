@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=5V_3 Pin=C7-2
+Removed Pin From Net: NetName=5V_3 Pin=C8-2
+Removed Pin From Net: NetName=5V_3 Pin=C9-2
+Removed Pin From Net: NetName=5V_3 Pin=C10-2
+Removed Pin From Net: NetName=5V_3 Pin=C11-2
+Removed Pin From Net: NetName=5V_3 Pin=C12-2
+Removed Pin From Net: NetName=5V_3 Pin=DigiPot 1-1
+Removed Pin From Net: NetName=5V_3 Pin=DigiPot 1-8
+Removed Pin From Net: NetName=5V_3 Pin=DigiPot 2-1
+Removed Pin From Net: NetName=5V_3 Pin=DigiPot 2-8
+Removed Pin From Net: NetName=5V_3 Pin=DigiPot 3-1
+Removed Pin From Net: NetName=5V_3 Pin=DigiPot 3-8
+Added Pin To Net: NetName=3.3V_1 Pin=C7-2
+Added Pin To Net: NetName=3.3V_1 Pin=C8-2
+Added Pin To Net: NetName=3.3V_1 Pin=C9-2
+Added Pin To Net: NetName=3.3V_1 Pin=C10-2
+Added Pin To Net: NetName=3.3V_1 Pin=C11-2
+Added Pin To Net: NetName=3.3V_1 Pin=C12-2
+Added Pin To Net: NetName=3.3V_1 Pin=DigiPot 1-1
+Added Pin To Net: NetName=3.3V_1 Pin=DigiPot 1-8
+Added Pin To Net: NetName=3.3V_1 Pin=DigiPot 2-1
+Added Pin To Net: NetName=3.3V_1 Pin=DigiPot 2-8
+Added Pin To Net: NetName=3.3V_1 Pin=DigiPot 3-1
+Added Pin To Net: NetName=3.3V_1 Pin=DigiPot 3-8
+Added Member To Class: ClassName=Top Member=Component MUX2 SN74LVC1G18DBVR

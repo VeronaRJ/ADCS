@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetHall 1_2 Pin=HS1-2
+Removed Pin From Net: NetName=NetHall 1_3 Pin=HS1-3
+Added Pin To Net: NetName=NetHall 1_3 Pin=HS1-2
+Added Pin To Net: NetName=NetHall 1_2 Pin=HS1-3
