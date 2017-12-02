@@ -1,0 +1,30 @@
+Remove Pin=ADCS Conn-1 From Net=24V
+Change Component Comment: Designator=ADCS Conn Old Comment=PIKSI_UART Connector New Comment=Motor Connection
+Change Component Comment: Designator=Motor1 Old Comment=PIKSI_UART Connector New Comment=Motor Connection
+Change Component Comment: Designator=Motor2 Old Comment=PIKSI_UART Connector New Comment=Motor Connection
+Change Component Comment: Designator=Motor3 Old Comment=PIKSI_UART Connector New Comment=Motor Connection
+Change Component Designator: OldDesignator=C1 NewDesignator=C21
+Change Component Designator: OldDesignator=C2 NewDesignator=C20
+Change Component Designator: OldDesignator=C4 NewDesignator=C18
+Change Component Designator: OldDesignator=C5 NewDesignator=C17
+Change Component Designator: OldDesignator=C6 NewDesignator=C16
+Change Component Designator: OldDesignator=C7 NewDesignator=C22
+Change Component Designator: OldDesignator=C13 NewDesignator=C19
+Change Component Designator: OldDesignator=MTR NewDesignator=Mag
+Change Component Designator: OldDesignator=MUX NewDesignator=Sun Mux
+Change Pin Designator/Name:  Old Designator=ADCS Conn-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=ADCS Conn-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=ADCS Conn-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=ADCS Conn-5 Old Name=5 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=Motor1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Motor1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=Motor1-4 Old Name=4 New Designator =5 New Name=5
+Change Pin Designator/Name:  Old Designator=Motor1-5 Old Name=5 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=Motor2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Motor2-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=Motor2-4 Old Name=4 New Designator =5 New Name=5
+Change Pin Designator/Name:  Old Designator=Motor2-5 Old Name=5 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=Motor3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Motor3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=Motor3-4 Old Name=4 New Designator =5 New Name=5
+Change Pin Designator/Name:  Old Designator=Motor3-5 Old Name=5 New Designator =4 New Name=4
