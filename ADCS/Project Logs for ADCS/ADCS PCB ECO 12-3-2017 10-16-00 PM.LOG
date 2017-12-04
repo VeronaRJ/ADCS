@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWM_35 Pin=Teensy 3.5-27
+Removed Pin From Net: NetName=PWM_36 Pin=Teensy 3.5-28
+Removed Pin From Net: NetName=PWM_37 Pin=Teensy 3.5-29
+Removed Pin From Net: NetName=PWM_38 Pin=Teensy 3.5-30
+Added Pin To Net: NetName=PWM_37 Pin=Teensy 3.5-27
+Added Pin To Net: NetName=PWM_38 Pin=Teensy 3.5-28
+Added Pin To Net: NetName=PWM_35 Pin=Teensy 3.5-29
+Added Pin To Net: NetName=PWM_36 Pin=Teensy 3.5-30

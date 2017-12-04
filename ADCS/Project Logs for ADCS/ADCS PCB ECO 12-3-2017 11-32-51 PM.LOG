@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPIO_14 Pin=MUX-13
+Removed Pin From Net: NetName=GPIO_15 Pin=MUX-14
+Added Pin To Net: NetName=GPIO_14 Pin=MUX-10
+Added Pin To Net: NetName=GPIO_15 Pin=MUX-11
+Added Pin To Net: NetName=GPIO_9 Pin=MUX-13
+Added Pin To Net: NetName=GPIO_9 Pin=Teensy 3.5-11
+Added Net: Name=GPIO_9
+Added Pin To Net: NetName=GPIO_10 Pin=MUX-14
+Added Pin To Net: NetName=GPIO_10 Pin=Teensy 3.5-12
+Added Net: Name=GPIO_10

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=A_GND Pin=A1H-1
+Removed Pin From Net: NetName=A5 Pin=A1H-2
+Removed Pin From Net: NetName=A4 Pin=A1H-3
+Removed Pin From Net: NetName=A3 Pin=A1H-4
+Added Pin To Net: NetName=A5 Pin=A1H-1
+Added Pin To Net: NetName=A4 Pin=A1H-2
+Added Pin To Net: NetName=A3 Pin=A1H-3
+Added Pin To Net: NetName=A_GND Pin=A1H-4

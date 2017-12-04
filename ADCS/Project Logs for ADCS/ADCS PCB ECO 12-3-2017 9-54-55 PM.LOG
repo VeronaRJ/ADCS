@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=PWM_21 Pin=HB1-1
+Removed Pin From Net: NetName=PWM_23 Pin=HB3-1
+Removed Pin From Net: NetName=PWM_22 Pin=HB3-2
+Removed Pin From Net: NetName=GPIO_10 Pin=Teensy 3.5-12
+Removed Pin From Net: NetName=GPIO_11 Pin=Teensy 3.5-13
+Removed Pin From Net: NetName=GPIO_11 Pin=Teensy 3.5-14
+Removed Pin From Net: NetName=A15 Pin=Teensy 3.5-26
+Removed Pin From Net: NetName=GPIO_16 Pin=Teensy 3.5-38
+Removed Pin From Net: NetName=GPIO_17 Pin=Teensy 3.5-39
+Removed Pin From Net: NetName=SDA0 Pin=Teensy 3.5-40
+Removed Pin From Net: NetName=SCL0 Pin=Teensy 3.5-41
+Added Pin To Net: NetName=PWM_23 Pin=DH-1
+Added Pin To Net: NetName=PWM_22 Pin=DH-3
+Added Pin To Net: NetName=PWM_21 Pin=DH-5
+Added Pin To Net: NetName=SCL0 Pin=Teensy 3.5-9
+Added Pin To Net: NetName=SDA0 Pin=Teensy 3.5-10
+Added Pin To Net: NetName=A2 Pin=A2H-1
+Added Pin To Net: NetName=A2 Pin=A2H-2
+Added Pin To Net: NetName=A2 Pin=A2H-3
+Added Pin To Net: NetName=A2 Pin=Teensy 3.5-38
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=A1H-3
+Added Pin To Net: NetName=A3 Pin=Teensy 3.5-39
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=A1H-2
+Added Pin To Net: NetName=A4 Pin=Teensy 3.5-40
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=A1H-1
+Added Pin To Net: NetName=A5 Pin=Teensy 3.5-41
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=Teensy 3.5-42
+Added Net: Name=A6
+Added Pin To Net: NetName=PWM_35 Pin=HB1-2
+Added Pin To Net: NetName=PWM_35 Pin=Teensy 3.5-27
+Added Net: Name=PWM_35
+Added Pin To Net: NetName=PWM_36 Pin=HB1-1
+Added Pin To Net: NetName=PWM_36 Pin=Teensy 3.5-28
+Added Net: Name=PWM_36
+Added Pin To Net: NetName=PWM_37 Pin=HB3-2
+Added Pin To Net: NetName=PWM_37 Pin=Teensy 3.5-29
+Added Net: Name=PWM_37
+Added Pin To Net: NetName=PWM_38 Pin=HB3-1
+Added Pin To Net: NetName=PWM_38 Pin=Teensy 3.5-30
+Added Net: Name=PWM_38
+Added Pin To Net: NetName=RX5 Pin=GPS-3
+Added Pin To Net: NetName=RX5 Pin=Teensy 3.5-26
+Added Net: Name=RX5
+Added Pin To Net: NetName=TX5 Pin=GPS-2
+Added Pin To Net: NetName=TX5 Pin=Teensy 3.5-25
+Added Net: Name=TX5

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PWM_23 Pin=DH-1
+Removed Pin From Net: NetName=PWM_22 Pin=DH-3
+Removed Pin From Net: NetName=GPIO_11 Pin=DH-4
+Removed Pin From Net: NetName=PWM_21 Pin=DH-5
+Removed Pin From Net: NetName=GND Pin=DH-7
+Removed Pin From Net: NetName=GND Pin=DH-8
+Added Pin To Net: NetName=GND Pin=DH-3
+Added Pin To Net: NetName=GND Pin=DH-4
+Added Pin To Net: NetName=PWM_23 Pin=DH-5
+Added Pin To Net: NetName=PWM_22 Pin=DH-6
+Added Pin To Net: NetName=PWM_21 Pin=DH-7
+Added Pin To Net: NetName=GPIO_11 Pin=DH-8
+Change Net Name : Old Net Name=GPIO_10 New Net Name=GPIO_0
+Change Net Name : Old Net Name=PWM_35 New Net Name=PWM_37
+Change Net Name : Old Net Name=PWM_36 New Net Name=PWM_38
+Change Net Name : Old Net Name=PWM_37 New Net Name=PWM_35
+Change Net Name : Old Net Name=PWM_38 New Net Name=PWM_36
+Added Pin To Net: NetName=GPIO_1 Pin=DH-1
+Added Net: Name=GPIO_1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PWM_23 Pin=DH-5
+Removed Pin From Net: NetName=PWM_21 Pin=DH-7
+Removed Pin From Net: NetName=GPIO_11 Pin=DH-8
+Added Pin To Net: NetName=PWM_21 Pin=DH-5
+Added Pin To Net: NetName=GPIO_11 Pin=DH-7
+Added Pin To Net: NetName=PWM_23 Pin=DH-8
