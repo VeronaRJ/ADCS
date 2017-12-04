@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=A14 Pin=A1H-1
+Removed Pin From Net: NetName=A17 Pin=A1H-3
+Added Pin To Net: NetName=A17 Pin=A1H-1
+Added Pin To Net: NetName=A14 Pin=A1H-3

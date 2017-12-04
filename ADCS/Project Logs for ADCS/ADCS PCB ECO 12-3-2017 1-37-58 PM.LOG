@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=A1H Conn NewDesignator=A1H
+Change Component Designator: OldDesignator=A2H Conn NewDesignator=A2H
+Change Component Designator: OldDesignator=Digital Conn NewDesignator=DH
+Change Component Designator: OldDesignator=GPS Conn NewDesignator=GPS
+Change Component Designator: OldDesignator=IMU Conn NewDesignator=IMU
+Change Component Designator: OldDesignator=MTR Conn NewDesignator=MTR
+Change Component Designator: OldDesignator=SS 1 Conn NewDesignator=SS1
+Change Component Designator: OldDesignator=SS 2 Conn NewDesignator=SS2
+Change Component Designator: OldDesignator=SS 3 Conn NewDesignator=SS3
+Change Component Designator: OldDesignator=SS 4 Conn NewDesignator=SS4
+Change Component Designator: OldDesignator=Sun Mux NewDesignator=MUX
+Change Component Designator: OldDesignator=Teensy 3.5 Headers NewDesignator=Teensy 3.5
+Change Component Designator: OldDesignator=Umbilical NewDesignator=UMB

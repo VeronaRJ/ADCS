@@ -1,0 +1,180 @@
+Removed Pin From Net: NetName=MTR3A Pin=MTR-1
+Removed Pin From Net: NetName=MTR3B Pin=MTR-2
+Removed Pin From Net: NetName=MTR2A Pin=MTR-3
+Removed Pin From Net: NetName=MTR2B Pin=MTR-4
+Added Component: Designator=A1H(53261-0471)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us//0532610471_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53261-0471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427113P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=A2H(53261-0671)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/078f/0900766b8078fc7f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53261-0671"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427135P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=DH(53261-0871)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0532610871_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53261-0871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427157P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=GPS(53398-0571)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/533980571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=IMU(53398-0571)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/533980571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=SS1(53398-0571)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/533980571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=SS2(53398-0571)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/533980571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=SS3(53398-0571)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/533980571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=SS4(53398-0571)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/533980571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=UMB(53261-0671)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/078f/0900766b8078fc7f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53261-0671"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5427135P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A15 Pin=A1H-1
+Added Pin To Net: NetName=A16 Pin=A1H-2
+Added Pin To Net: NetName=A17 Pin=A1H-3
+Added Pin To Net: NetName=A_GND Pin=A1H-4
+Added Pin To Net: NetName=A18 Pin=A2H-1
+Added Pin To Net: NetName=PWM_2 Pin=A2H-2
+Added Pin To Net: NetName=A19 Pin=A2H-3
+Added Pin To Net: NetName=PWM_5 Pin=A2H-4
+Added Pin To Net: NetName=A20 Pin=A2H-5
+Added Pin To Net: NetName=PWM_6 Pin=A2H-6
+Added Pin To Net: NetName=PWM_7 Pin=DH-1
+Added Pin To Net: NetName=GPIO_10 Pin=DH-2
+Added Pin To Net: NetName=PWM_8 Pin=DH-3
+Added Pin To Net: NetName=GPIO_11 Pin=DH-4
+Added Pin To Net: NetName=PWM_9 Pin=DH-5
+Added Pin To Net: NetName=GPIO_12 Pin=DH-6
+Added Pin To Net: NetName=GND Pin=DH-7
+Added Pin To Net: NetName=GND Pin=DH-8
+Added Pin To Net: NetName=GND Pin=GPS-1
+Added Pin To Net: NetName=TX1 Pin=GPS-2
+Added Pin To Net: NetName=RX1 Pin=GPS-3
+Added Pin To Net: NetName=5V Pin=GPS-5
+Added Pin To Net: NetName=SCL0 Pin=IMU-1
+Added Pin To Net: NetName=SDA0 Pin=IMU-2
+Added Pin To Net: NetName=GND Pin=IMU-3
+Added Pin To Net: NetName=3.3V Pin=IMU-4
+Added Pin To Net: NetName=MTR2A Pin=MTR-1
+Added Pin To Net: NetName=MTR2B Pin=MTR-2
+Added Pin To Net: NetName=MTR3A Pin=MTR-3
+Added Pin To Net: NetName=MTR3B Pin=MTR-4
+Added Pin To Net: NetName=PT1 Pin=SS1-1
+Added Pin To Net: NetName=PT2 Pin=SS1-2
+Added Pin To Net: NetName=PT3 Pin=SS1-3
+Added Pin To Net: NetName=PT4 Pin=SS1-4
+Added Pin To Net: NetName=5V_3 Pin=SS1-5
+Added Pin To Net: NetName=PT5 Pin=SS2-1
+Added Pin To Net: NetName=PT6 Pin=SS2-2
+Added Pin To Net: NetName=PT7 Pin=SS2-3
+Added Pin To Net: NetName=PT8 Pin=SS2-4
+Added Pin To Net: NetName=5V Pin=SS2-5
+Added Pin To Net: NetName=PT9 Pin=SS3-1
+Added Pin To Net: NetName=PT10 Pin=SS3-2
+Added Pin To Net: NetName=PT11 Pin=SS3-3
+Added Pin To Net: NetName=PT12 Pin=SS3-4
+Added Pin To Net: NetName=5V Pin=SS3-5
+Added Pin To Net: NetName=PT13 Pin=SS4-1
+Added Pin To Net: NetName=PT14 Pin=SS4-2
+Added Pin To Net: NetName=PT15 Pin=SS4-3
+Added Pin To Net: NetName=PT16 Pin=SS4-4
+Added Pin To Net: NetName=5V Pin=SS4-5
+Added Pin To Net: NetName=GND Pin=UMB-1
+Added Pin To Net: NetName=5V Pin=UMB-2
+Added Pin To Net: NetName=SCL2 Pin=UMB-3
+Added Pin To Net: NetName=SDA2 Pin=UMB-4
+Added Pin To Net: NetName=GND Pin=UMB-5
+Added Pin To Net: NetName=3.3V Pin=UMB-6
+Added Member To Class: ClassName=Top Member=Component A1H 53261-0471
+Added Member To Class: ClassName=Top Member=Component A2H 53261-0671
+Added Member To Class: ClassName=Top Member=Component DH 53261-0871
+Added Member To Class: ClassName=Top Member=Component GPS 53398-0571
+Added Member To Class: ClassName=Top Member=Component IMU 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS1 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS2 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS3 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS4 53398-0571
+Added Member To Class: ClassName=Top Member=Component UMB 53261-0671
