@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=PWM_37 Pin=-1
+Removed Pin From Net: NetName=PWM_38 Pin=-2
+Change Component Designator: OldDesignator= NewDesignator=A1H
+Change Component Designator: OldDesignator= NewDesignator=A2H
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=DH
+Change Component Designator: OldDesignator= NewDesignator=GPS
+Change Component Designator: OldDesignator= NewDesignator=HB1
+Change Component Designator: OldDesignator= NewDesignator=HB2
+Change Component Designator: OldDesignator= NewDesignator=HB3
+Change Component Designator: OldDesignator= NewDesignator=IMU
+Change Component Designator: OldDesignator= NewDesignator=MTR
+Change Component Designator: OldDesignator= NewDesignator=MUX
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=SS1
+Change Component Designator: OldDesignator= NewDesignator=SS2
+Change Component Designator: OldDesignator= NewDesignator=SS3
+Change Component Designator: OldDesignator= NewDesignator=SS4
+Change Component Designator: OldDesignator= NewDesignator=Teensy 3.5
+Change Component Designator: OldDesignator= NewDesignator=UMB
+Added Pin To Net: NetName=PWM_38 Pin=HB1-1
+Added Pin To Net: NetName=PWM_37 Pin=HB1-2
+Added Member To Class: ClassName=Top Member=Component A1H 53261-0471
+Added Member To Class: ClassName=Top Member=Component A2H 53261-0671
+Added Member To Class: ClassName=Top Member=Component C1 C1206
+Added Member To Class: ClassName=Top Member=Component C2 C1206
+Added Member To Class: ClassName=Top Member=Component C3 C1206
+Added Member To Class: ClassName=Top Member=Component C4 C0402
+Added Member To Class: ClassName=Top Member=Component C5 C0402
+Added Member To Class: ClassName=Top Member=Component C6 C0402
+Added Member To Class: ClassName=Top Member=Component C7 C0402
+Added Member To Class: ClassName=Top Member=Component DH 53261-0871
+Added Member To Class: ClassName=Top Member=Component GPS 53398-0571
+Added Member To Class: ClassName=Top Member=Component HB1 H-Bridge
+Added Member To Class: ClassName=Top Member=Component HB2 H-Bridge
+Added Member To Class: ClassName=Top Member=Component HB3 H-Bridge
+Added Member To Class: ClassName=Top Member=Component IMU 53398-0571
+Added Member To Class: ClassName=Top Member=Component MTR 53398-0671
+Added Member To Class: ClassName=Top Member=Component MUX CD74HC4067SM96
+Added Member To Class: ClassName=Top Member=Component R1 ERJ-3EKF6042V
+Added Member To Class: ClassName=Top Member=Component R2 ERJ-3EKF6042V
+Added Member To Class: ClassName=Top Member=Component R3 ERJ-3EKF6042V
+Added Member To Class: ClassName=Top Member=Component R4 
+Added Member To Class: ClassName=Top Member=Component SS1 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS2 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS3 53398-0571
+Added Member To Class: ClassName=Top Member=Component SS4 53398-0571
+Added Member To Class: ClassName=Top Member=Component Teensy 3.5 61002418221
+Added Member To Class: ClassName=Top Member=Component UMB 53261-0671
