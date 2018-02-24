@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 53261-0471
+D 4 way SMT r/a header Molex PICOBLADE Series, Series Number 53261, 1.25mm Pitch 4 Way 1 Row Shrouded Right Angle PCB Header, Surface Mount
+K
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//0532610471_PCB_HEADERS.pdf
+$ENDCMP
+#
+#End Doc Library

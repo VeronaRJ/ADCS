@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 53261-0471
+#/294558/28016/2.18/4/4/Connector
+DEF 53261-0471 J 0 30 Y Y 1 F N
+F0 "J" 350 150 50 H V C CNN
+F1 "53261-0471" 350 -250 50 H V C CNN
+F2 "53261-0471" 350 -350 50 H I C CNN
+F3 "http://www.molex.com/webdocs/datasheets/pdf/en-us//0532610471_PCB_HEADERS.pdf" 350 -450 50 H I C CNN
+F4 "4 way SMT r/a header Molex PICOBLADE Series, Series Number 53261, 1.25mm Pitch 4 Way 1 Row Shrouded Right Angle PCB Header, Surface Mount" 350 -550 50 H I C CNN "Description"
+F5 "RS" 350 -650 50 H I C CNN "Supplier_Name"
+F6 "5427113P" 350 -750 50 H I C CNN "RS Part Number"
+F7 "Molex" 350 -850 50 H I C CNN "Manufacturer_Name"
+F8 "53261-0471" 350 -950 50 H I C CNN "Manufacturer_Part_Number"
+F9 "" 350 -1050 50 H I C CNN "Allied_Number"
+F10 "" 350 -1150 50 H I C CNN "Other Part Number"
+F11 "" 550 -1250 50 H I C CNN "Height"
+DRAW
+S 200 100 500 -200 0 0 10 f
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 700 0 200 L 50 50 0 0 U
+X 4 4 700 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

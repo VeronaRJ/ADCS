@@ -1,0 +1,18 @@
+.53261-0871 :1 ;Molex PICOBLADE Series, Series Number 53261, 1.25mm Pitch, 8 Way 1 Row Shrouded Right Angle PCB Header, Surface Mount
+"53261-0871"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8"
+*MXP 10
+*DFN 53261-0871
+~!Supplier_Name (RS)
+~!RS Part Number (5427157P)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (53261-0871)
+~!Allied_Number (-)
+~!Other Part Number (-)
+~!Link Datasheet (http://www.molex.com/webdocs/datasheets/pdf/en-us/0532610871_PCB_HEADERS.pdf)
+~!Height (-)
+~!3D_Model (53261-0871)
+"53261-0871"
+1.1!U 3.1!U 5.1!U 7.1!U 2.1!U 4.1!U 6.1!U 8.1!U 

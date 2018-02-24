@@ -1,0 +1,69 @@
+PCBNEW-LibModule-V1  2017-12-02 05:05:16
+# encoding utf-8
+Units mm
+$INDEX
+53398-0571
+$EndINDEX
+$MODULE 53398-0571
+Po 0 0 0 15 5a22348c 00000000 ~~
+Li 53398-0571
+Cd 53398-0571
+Kw Connector
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 -0.5 1.563 1.27 1.27 0 0.254 N V 21 N "J**"
+T1 -0.5 1.563 1.27 1.27 0 0.254 N I 21 N "53398-0571"
+DS -5.5 0 5.5 0 0.2 24
+DS 5.5 0 5.5 3.7 0.2 24
+DS 5.5 3.7 -5.5 3.7 0.2 24
+DS -5.5 3.7 -5.5 0 0.2 24
+DS -3.7 3.7 3.7 3.7 0.2 21
+DS -5.5 0 -3.122 0 0.2 21
+DS 5.5 0 3.111 0 0.2 21
+DC -3.366 -1.031 -3.44269 -1.031 0.254 21
+$PAD
+Po -2.5 -0.2
+Sh "1" R 0.8 1.3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.25 -0.2
+Sh "2" R 0.8 1.3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 -0.2
+Sh "3" R 0.8 1.3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.25 -0.2
+Sh "4" R 0.8 1.3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.5 -0.2
+Sh "5" R 0.8 1.3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -5.05 2.55
+Sh "6" R 2.1 3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 5.05 2.55
+Sh "7" R 2.1 3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE 53398-0571
+$EndLIBRARY

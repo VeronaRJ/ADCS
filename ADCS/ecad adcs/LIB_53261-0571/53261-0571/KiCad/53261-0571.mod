@@ -1,0 +1,62 @@
+PCBNEW-LibModule-V1  2017-12-03 23:01:56
+# encoding utf-8
+Units mm
+$INDEX
+53261-0571
+$EndINDEX
+$MODULE 53261-0571
+Po 0 0 0 15 5a248264 00000000 ~~
+Li 53261-0571
+Cd 53261-0571
+Kw Connector
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0   1.27 1.27 0 0.254 N V 21 N "J**"
+T1   1.27 1.27 0 0.254 N I 21 N "53261-0571"
+DS -3.6 0.8 -3.6 5 0.1 24
+DS -3.6 5 7.6 5 0.1 24
+DS 7.6 5 7.6 0.8 0.1 24
+DS 7.6 0.8 -3.6 0.8 0.1 24
+DS -3.6 0.8 -1.5 0.8 0.2 21
+DS 5.5 0.8 7.6 0.8 0.2 21
+DS -3.6 5 7.6 5 0.2 21
+$PAD
+Po 0 0
+Sh "1" R 0.8 1.6 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.25 0
+Sh "2" R 0.8 1.6 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.75 0
+Sh "3" R 0.8 1.6 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 4 0
+Sh "4" R 0.8 1.6 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -3.6 2.9
+Sh "5" R 2.1 3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 7.6 2.9
+Sh "6" R 2.1 3 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE 53261-0571
+$EndLIBRARY
